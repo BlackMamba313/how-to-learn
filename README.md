@@ -1,8 +1,29 @@
-# how-to-learn
-How to learn
- Учебная проектная работа на яндексе
- Старался использовать всечто изучал на курсе
- Вработе присутствуют Flex-box iframe css-animation и другие технологии изученные в тренажёре
- Осталось небольшие симантические доработки на которые не осталось времени (в некоторых местахпоменять теги на теги списков)
- Так же доработать анимацию прозрачности у ссылок
- 
+Научиться учиться. Лендинг для Яндекс.Практикума
+Проект представляет собой одностраничный сайт.
+
+Стек
+HTML
+CSS
+Реализация
+Flexbox вёрстка
+CSS-анимация
+Файловая структура проекта по правилам Nested БЭМ
+Планы по доработке
+Адаптировать сайт для просмотра на разных устройствах
+Ссылка на сайт:
+https://wrongsky1.github.io/how-to-learn/index.html
+
+How to learn. The second project for Yandex.Praktikum
+The single page website is created using some advanced features of HTML and CSS.
+
+Stack
+HTML
+CSS
+Realization
+Flexbox layout
+CSS-animation
+The Nested BEM file stucture
+Future improvements
+To optimize website for different screen sizes
+URL:
+https://wrongsky1.github.io/how-to-learn/index.html
